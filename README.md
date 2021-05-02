@@ -2,7 +2,7 @@
 
 ## Scraper para obtener los artículos disponibles en la [NASA store](https://mynasastore.com/) y sus precios.
 
-Para ejecutar el escript de Python se requiere de las siguientes librerías,
+Para ejecutar el escript se requiere de las siguientes librerías,
 
 ```
 pip install beautifulsoup4
